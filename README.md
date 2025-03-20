@@ -176,7 +176,7 @@ int main()
 
 
 ## OUTPUT:
-![Screenshot 2025-03-20 093202](https://github.com/user-attachments/assets/4858d1cb-c5a7-4d57-96fe-ab7fa3673e06)
+![Screenshot 2025-03-20 094448](https://github.com/user-attachments/assets/47a6dfa0-c621-40a8-a2c6-5017dc1a92dc)
 
 ## RESULT:
 The program is executed successfully.
